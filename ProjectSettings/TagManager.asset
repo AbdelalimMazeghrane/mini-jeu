@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - hitable
+  - dead
+  - wall
+  - tree
+  - ground
+  - decors
+  - forest
+  - vege
+  - house
+  - predator
+  - map
+  - rain
+  - inventory
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3462109317
+    locked: 0
+  - name: Animal
+    uniqueID: 1407013853
+    locked: 0
+  - name: Weather
+    uniqueID: 1669546773
+    locked: 0
